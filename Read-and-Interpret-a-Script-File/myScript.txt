@@ -1,0 +1,6 @@
+clear
+ls /usr/bin
+date; more myScript.txt
+wc -l myScript.txt
+echo Good bye
+
